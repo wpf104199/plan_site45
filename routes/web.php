@@ -15,3 +15,9 @@ Route::get('/', function () {
     return view('welcome');
     //feiyun
 });
+
+Route::get('/', function () {
+    //feiyun
+
+    return view('welcome');
+});
